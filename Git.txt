@@ -1,0 +1,9 @@
+git add ---- stages your changes made in local file.
+
+
+
+git branches :
+git 
+
+git merge conflict :
+
